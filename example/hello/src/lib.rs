@@ -9,6 +9,7 @@ pub fn snuggle(bunnies: u128) -> u128 {
     bunnies << 3
 }
 
+
 // The typical, multiplication approach
 //
 // pub fn snuggle(bunnies: u128) -> u128 {
